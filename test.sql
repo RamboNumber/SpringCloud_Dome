@@ -2,6 +2,7 @@
 
 SET FOREIGN_KEY_CHECKS=0;
 
+-- ----------------------------
 -- Table structure for address
 -- ----------------------------
 DROP TABLE IF EXISTS `address`;
@@ -55,4 +56,3 @@ CREATE TABLE `user` (
 -- ----------------------------
 INSERT INTO `user` VALUES ('1', '2019-01-02 17:01:39', '1', '0', '2019-01-03 16:05:07', '1', '0', '222@qq.com', '欧辰 ', '000000', '222');
 INSERT INTO `user` VALUES ('4', '2019-01-02 17:01:39', '1', '0', '2019-01-03 16:05:07', '1', '0', '2222@qq.com', '欧辰 2', '000000', '2222');
-aaaaaaaaaaa

@@ -7,4 +7,3 @@ eureka-client/.mvn/
 bin/
 eureka-common/.mvn/
 config-client/.mvn/
-/idea*

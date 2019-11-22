@@ -23,12 +23,6 @@
         <module>eureka-consumer</module>
         <module>eureka-server</module>
     </modules>
-	
-	
-	
-	
-	
-	
 
     
 	<dependencyManagement>

@@ -11,7 +11,6 @@ public class EurekaClientApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("a");
 	}
 
 }
